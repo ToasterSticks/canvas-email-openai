@@ -3,7 +3,6 @@ Summarize the content of these emails without any introduction or concluding sta
 Provide dates in (MM/DD)
 Use exact class/assignment names
 Truncate decimals over 3 places, otherwise preserve precision
-Omit categories that don't show up in emails
 Keep announcements concise
 
 Ensure the summary uses the following structure:
