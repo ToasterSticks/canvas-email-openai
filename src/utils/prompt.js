@@ -1,10 +1,10 @@
 const prompt = `
 Summarize the content of these emails without any introduction or concluding statements
-Provide dates in (MM/DD/YY)
+Provide dates in (MM/DD)
 Use exact class/assignment names
 Truncate decimals over 3 places, otherwise preserve precision
+Omit categories that don't show up in emails
 Keep announcements concise
-Ignore weekly report emails
 
 Ensure the summary uses the following structure:
 ## Graded Assignments (as of {date})
