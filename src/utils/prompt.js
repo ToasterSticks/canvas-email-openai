@@ -4,6 +4,7 @@ Provide dates in (MM/DD/YY)
 Use exact class/assignment names
 Truncate decimals over 3 places, otherwise preserve precision
 Keep announcements concise
+Ignore weekly report emails
 
 Ensure the summary uses the following structure:
 ## Graded Assignments (as of {date})
