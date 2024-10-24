@@ -11,7 +11,7 @@ async function summarizeText(text) {
 		const response = await client.predict('/predict', {
 			inputs: `${prompt}\n\n${text}`,
 			top_p: 0.1,
-			temperature: 0.1,
+			temperature: 0,
 			chat_counter: 0,
 		});
 

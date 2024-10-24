@@ -28,7 +28,7 @@ async function processEmails() {
 }
 
 // Schedule the script to run every day at 12AM UTC (8PM EST)
-cron.schedule('0 0 * * *', () => {
+cron.schedule('0 23 * * *', () => {
 	log('Running daily email summarization task...');
 	processEmails();
 });
