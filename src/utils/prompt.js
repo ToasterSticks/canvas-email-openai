@@ -6,7 +6,7 @@ Truncate decimals over 3 places, otherwise preserve precision
 Keep announcements concise
 
 Ensure the summary uses this exact following structure:
-## Graded Assignments (as of {date})
+## Graded Assignments (as of {date in Eastern Standard Time})
   * **{class}**:
     * {name}: {score (e.g. 10/20)}
 ## New Assignments
